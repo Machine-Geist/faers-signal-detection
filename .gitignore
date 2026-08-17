@@ -1,0 +1,35 @@
+# Uncompressed large extracts — committed as .gz instead
+data/signals.csv
+data/roc.csv
+data/validation_pairs.csv
+
+# Raw source data — downloaded from FDA, never committed
+data/raw/
+*.zip
+*.txt
+!sql/00_setup/requirements.txt
+
+# Intermediate files
+*.rda
+
+# Tableau workbooks
+*.twb
+*.twbx
+*.hyper
+*.tde
+
+# R session artifacts
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

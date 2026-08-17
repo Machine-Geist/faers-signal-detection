@@ -1,0 +1,7 @@
+"tier","method","true_positive","false_positive","false_negative","true_negative","sensitivity_pct","specificity_pct","ppv_pct"
+broad,IC025,45,2,86,175,34.4,98.9,95.7
+broad,PRR,43,2,88,175,32.8,98.9,95.6
+broad,ROR,49,2,82,175,37.4,98.9,96.1
+narrow,IC025,41,1,90,176,31.3,99.4,97.6
+narrow,PRR,43,2,88,175,32.8,98.9,95.6
+narrow,ROR,44,3,87,174,33.6,98.3,93.6

@@ -1,0 +1,6 @@
+"stage_order","stage","n"
+1,Deduplicated cases,755960
+2,Candidate drug-event pairs,527841
+3,IC025 signals,70728
+4,After removing zero-cell artifacts,70526
+5,Review candidates (indication-filtered),68229
